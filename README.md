@@ -1,6 +1,6 @@
 # Software security training
 
-Software security training in Boticário Group
+Software security training in Boticário Group - Jan 20, 21 and 22
 
 ## Requires:
 
